@@ -15,7 +15,7 @@ In this project, we will conduct exploratory data analysis on the IMDb dataset a
 
 ## Tableau Deshboard:
 
-![Page12](https://user-images.githubusercontent.com/40618186/96181671-62fc8680-0f02-11eb-9f81-7b77fe754071.jpg)
-![Page13](https://user-images.githubusercontent.com/40618186/96181672-642db380-0f02-11eb-9af6-5566ac46ab9c.jpg)
-![Page14](https://user-images.githubusercontent.com/40618186/96181675-642db380-0f02-11eb-8424-6bb9ee34b729.jpg)
-![Page15](https://user-images.githubusercontent.com/40618186/96181664-61cb5980-0f02-11eb-9c33-d86444e4879a.jpg)
+![Page12](https://user-images.githubusercontent.com/40618186/96181939-c4245a00-0f02-11eb-8c46-0ec34f2853db.jpg)
+![Page13](https://user-images.githubusercontent.com/40618186/96181942-c4bcf080-0f02-11eb-8776-911fa55e0c19.jpg)
+![Page14](https://user-images.githubusercontent.com/40618186/96181945-c5558700-0f02-11eb-80f8-ef6985bf97d4.jpg)
+![Page15](https://user-images.githubusercontent.com/40618186/96181938-c38bc380-0f02-11eb-9931-6d3f4b43b45b.jpg)
